@@ -2,7 +2,7 @@
 
 namespace Practica.Models
 {
-    public class marcas
+    public class marcas //Man
     {
         [Key]
         [Display(Name = "Id")]
